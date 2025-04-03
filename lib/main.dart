@@ -147,3 +147,4 @@ class _InventoryHomePageState extends State<InventoryHomePage> {
     );
   }
 }
+..
